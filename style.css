@@ -161,7 +161,6 @@ body {
   padding: 0 1.5rem;
   font-family: var(--ff-secondary);
   height: 100%;
-  border: 1px solid red;
 }
 
 .card-text-content {
